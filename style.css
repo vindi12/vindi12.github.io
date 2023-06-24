@@ -1,0 +1,133 @@
+.navbar {
+    position: sticky;
+    top: 0;
+    opacity: 0.8;
+}
+
+.banner {
+    width: 1000px;
+}
+.banner img {
+   width:1348px;
+}
+
+.profile {
+    width: 1000px;
+    margin-left: 100px;
+    margin-bottom: 250px;
+}
+
+.profile img {
+    
+    margin: 50px;
+    width: 500px;
+    border-radius: 50px;
+    
+}
+
+.profile .aboutV {
+    margin-top: -350px;
+    margin-left: 650px;
+}
+
+.navbar1{
+    position: sticky;
+    top: 0;
+    opacity: 0.8;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/*-- Education --*/
+.education {
+    background-color: #aebcb9;
+    padding: 30px;
+}
+
+.education h1 {
+    margin-bottom: 30px;
+}
+
+.education .sd {
+    text-align: center;
+    margin-left: -480px;
+}
+
+.education .sd h6 {
+    margin-top: 10px;
+}
+
+.education .smp {
+    text-align: center;
+    margin-top: -77px;
+    margin-left: 500px;
+    
+}
+
+.education .smp h6 {
+    margin-top: 10px;
+}
+
+.education .sma {
+    text-align: center;
+    margin-top: -77px;
+    margin-left: 1000px;
+    
+}
+
+.education .sma h6 {
+    margin-top: 10px;
+}
+
+.education .kuliah {
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 500px;
+    
+}
+
+.education .kuliah h6 {
+    margin-top: 10px;
+}
+/*-- END Education --*/
+div.contact {
+    margin-top: 50px;
+}
+
+h1{
+    text-align: center;
+}
+
+.contactkiri {
+    float: left;
+    margin-left: 30px;
+    width: 550px;
+}
+
+.contactkanan{
+    float: left;
+    width: 600px;
+    margin-left: 100px;
+}
+
+.footer {
+    text-align: center;
+    background-color:#aebcb9;
+    padding-top: 20px;
+}
+
+.footer img {
+    width: 35px;
+}
+
+.navbar1 a {
+    color: black;
+}
+
+.navbar1 {
+    background-color: #4f4d4d;
+}
+
+.github {
+    margin-top: -71px;
+    margin-left: 250px;
+}
